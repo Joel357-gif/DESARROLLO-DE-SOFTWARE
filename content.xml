@@ -1,0 +1,3286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>universal</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202610311909170XIETS</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261031190917TFJSSO</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Actividades con Lumi H5P</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Actividades Realizadas en h5p</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>universal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1793458848064</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>H5P</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>H5P</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>H5P</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odePageId>
+      <odeBlockId>block-mvwj3ml7-m8rtaz4k2</odeBlockId>
+      <blockName>PORTADA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odePageId>
+          <odeBlockId>block-mvwj3ml7-m8rtaz4k2</odeBlockId>
+          <odeIdeviceId>idevice-1793458862105-t6cejkr5v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_w4mhwnw4mhwnw4mh.jpg" width="1360" height="759" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793458862105-t6cejkr5v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_w4mhwnw4mhwnw4mh.jpg\" width=\"1360\" height=\"759\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwj6hd7-hpwpk0tja</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Sopa de Letras</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sopa de Letras</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sopa de Letras</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwj6hd7-hpwpk0tja</odePageId>
+      <odeBlockId>block-mvwjhk5i-58is6ze39</odeBlockId>
+      <blockName>Sopa de Letras - Lenguaje y Literatura</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwj6hd7-hpwpk0tja</odePageId>
+          <odeBlockId>block-mvwjhk5i-58is6ze39</odeBlockId>
+          <odeIdeviceId>idevice-1793459512133-exyh5mhzb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Sopa de Letras..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793459512133-exyh5mhzb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Sopa de Letras..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwj6hd7-hpwpk0tja</odePageId>
+      <odeBlockId>block-mvwjp9o0-o2j8saf52</odeBlockId>
+      <blockName>Sopa de Letras - Matemáticas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwj6hd7-hpwpk0tja</odePageId>
+          <odeBlockId>block-mvwjp9o0-o2j8saf52</odeBlockId>
+          <odeIdeviceId>idevice-1793459871791-2g5x0akw4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Sopa de Letras - matematicas..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793459871791-2g5x0akw4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Sopa de Letras - matematicas..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwjsf41-98cpzhobc</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>AR Scavenger (beta)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AR Scavenger (beta)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>AR Scavenger (beta)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwjsf41-98cpzhobc</odePageId>
+      <odeBlockId>block-mvwzd3fi-avkjrae3o</odeBlockId>
+      <blockName>IMPORTANTE ANTES DE USAR</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwjsf41-98cpzhobc</odePageId>
+          <odeBlockId>block-mvwzd3fi-avkjrae3o</odeBlockId>
+          <odeIdeviceId>idevice-1793486177694-6esnf7p0u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/PARA PROBLEMA DE MATEMÁTICA.zip" title="PARA PROBLEMA DE MATEMÁTICA.zip">PARA PROBLEMA DE MATEMÁTICA.zip</a></p>
+<p><a href="{{context_path}}/content/resources/PARA PROBLEMA DE PROGRAMACIÓN.zip" title="PARA PROBLEMA DE PROGRAMACIÓN.zip">PARA PROBLEMA DE PROGRAMACIÓN.zip</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793486177694-6esnf7p0u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/PARA PROBLEMA DE MATEMÁTICA.zip\" title=\"PARA PROBLEMA DE MATEMÁTICA.zip\">PARA PROBLEMA DE MATEMÁTICA.zip</a></p>\n<p><a href=\"{{context_path}}/content/resources/PARA PROBLEMA DE PROGRAMACIÓN.zip\" title=\"PARA PROBLEMA DE PROGRAMACIÓN.zip\">PARA PROBLEMA DE PROGRAMACIÓN.zip</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwjsf41-98cpzhobc</odePageId>
+      <odeBlockId>block-mvwkhkii-72rk7dv3f</odeBlockId>
+      <blockName>PROBLEMA DE MATEMÁTICA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwjsf41-98cpzhobc</odePageId>
+          <odeBlockId>block-mvwkhkii-72rk7dv3f</odeBlockId>
+          <odeIdeviceId>idevice-1793461192209-nrxlxguj5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793461192209-nrxlxguj5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwjsf41-98cpzhobc</odePageId>
+      <odeBlockId>block-mvwlbsdh-ffifc8mfq</odeBlockId>
+      <blockName>PROBLEMA DE PROGRAMACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwjsf41-98cpzhobc</odePageId>
+          <odeBlockId>block-mvwlbsdh-ffifc8mfq</odeBlockId>
+          <odeIdeviceId>idevice-1793462602084-mn07ozzrx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad - programacion.html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793462602084-mn07ozzrx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad - programacion.html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwlq96i-q362klfbs</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Acordeon</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Acordeon</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Acordeon</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwlq96i-q362klfbs</odePageId>
+      <odeBlockId>block-mvwlr8zq-8erznoa84</odeBlockId>
+      <blockName>Acordeon - Física</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwlq96i-q362klfbs</odePageId>
+          <odeBlockId>block-mvwlr8zq-8erznoa84</odeBlockId>
+          <odeIdeviceId>idevice-1793463323461-y0nie40e9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad 1 - fisica..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793463323461-y0nie40e9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad 1 - fisica..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwlq96i-q362klfbs</odePageId>
+      <odeBlockId>block-mvwlstom-58xcphx5i</odeBlockId>
+      <blockName>Acordeon - Química</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwlq96i-q362klfbs</odePageId>
+          <odeBlockId>block-mvwlstom-58xcphx5i</odeBlockId>
+          <odeIdeviceId>idevice-1793463396933-9hn5trdzw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad 2 - Quimica..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793463396933-9hn5trdzw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad 2 - Quimica..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwmk8tn-t33q7jt3k</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Tarjetas de diálogo (Dialog Cards)</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarjetas de diálogo (Dialog Cards)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarjetas de diálogo (Dialog Cards)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwmk8tn-t33q7jt3k</odePageId>
+      <odeBlockId>block-mvx2ksb3-nlcoiqpl3</odeBlockId>
+      <blockName>Repaso de términos técnicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwmk8tn-t33q7jt3k</odePageId>
+          <odeBlockId>block-mvx2ksb3-nlcoiqpl3</odeBlockId>
+          <odeIdeviceId>idevice-1793491575318-711t8v130</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Tarjetas de Diálogo Conceptos Clave de Programación y Bases de Datos..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793491575318-711t8v130","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Tarjetas de Diálogo Conceptos Clave de Programación y Bases de Datos..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwmk8tn-t33q7jt3k</odePageId>
+      <odeBlockId>block-mvx2lp5n-vt16cbeg2</odeBlockId>
+      <blockName>Correción Gramatical</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwmk8tn-t33q7jt3k</odePageId>
+          <odeBlockId>block-mvx2lp5n-vt16cbeg2</odeBlockId>
+          <odeIdeviceId>idevice-1793491617947-05di8xwcb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Tarjetas de Diálogo Vicios del Lenguaje y Correcciones..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793491617947-05di8xwcb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Tarjetas de Diálogo Vicios del Lenguaje y Correcciones..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwn48fx-yxmdfzv1n</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Pegado (Collage)</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pegado (Collage)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Pegado (Collage)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwn48fx-yxmdfzv1n</odePageId>
+      <odeBlockId>block-mvwn4jdg-74ihbo11g</odeBlockId>
+      <blockName>Actividad 1 - Biología</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwn48fx-yxmdfzv1n</odePageId>
+          <odeBlockId>block-mvwn4jdg-74ihbo11g</odeBlockId>
+          <odeIdeviceId>idevice-1793465623059-cpupvsp2u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad1 - Biología (Estructura de la Célula)...html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793465623059-cpupvsp2u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad1 - Biología (Estructura de la Célula)...html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwn48fx-yxmdfzv1n</odePageId>
+      <odeBlockId>block-mvwn92h4-ccm00k1v1</odeBlockId>
+      <blockName>Actividad 2 - Física</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwn48fx-yxmdfzv1n</odePageId>
+          <odeBlockId>block-mvwn92h4-ccm00k1v1</odeBlockId>
+          <odeIdeviceId>idevice-1793465834439-w52i3y9sg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad 2 - Cinemática - Física (Tipos de Movimiento)..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793465834439-w52i3y9sg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad 2 - Cinemática - Física (Tipos de Movimiento)..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwni2h9-228j01ceg</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Elección de imagen (Image Choice)</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elección de imagen (Image Choice)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwni2h9-228j01ceg</odePageId>
+      <odeBlockId>block-mvwnikon-slh5uyxeq</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwni2h9-228j01ceg</odePageId>
+          <odeBlockId>block-mvwnikon-slh5uyxeq</odeBlockId>
+          <odeIdeviceId>idevice-1793466277943-o4j8x5l6a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad - Reconocimiento de Organelos Celulares..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793466277943-o4j8x5l6a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad - Reconocimiento de Organelos Celulares..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwni2h9-228j01ceg</odePageId>
+      <odeBlockId>block-mvwnod6l-a196nmvfe</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwni2h9-228j01ceg</odePageId>
+          <odeBlockId>block-mvwnod6l-a196nmvfe</odeBlockId>
+          <odeIdeviceId>idevice-1793466548156-txqx116vq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad 2 - Clasificación de Polígonos..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793466548156-txqx116vq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad 2 - Clasificación de Polígonos..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwo1ys6-084szrz0v</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Information Wall</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Information Wall</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwo1ys6-084szrz0v</odePageId>
+      <odeBlockId>block-mvwo21n7-e8o91yfgx</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwo1ys6-084szrz0v</odePageId>
+          <odeBlockId>block-mvwo21n7-e8o91yfgx</odeBlockId>
+          <odeIdeviceId>idevice-1793467186387-elf3fbrs6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad 1 - Glosario Interactivo de Programación y Desarrollo..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793467186387-elf3fbrs6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad 1 - Glosario Interactivo de Programación y Desarrollo..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwo1ys6-084szrz0v</odePageId>
+      <odeBlockId>block-mvwoashs-31rhx7cth</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwo1ys6-084szrz0v</odePageId>
+          <odeBlockId>block-mvwoashs-31rhx7cth</odeBlockId>
+          <odeIdeviceId>idevice-1793467594431-x7m6e8a5n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad 2 - Glosario Interactivo de Matemáticas..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793467594431-x7m6e8a5n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad 2 - Glosario Interactivo de Matemáticas..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwp24vf-8vgrkuv02</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Virtual Tour (360)</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Virtual Tour (360)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwp24vf-8vgrkuv02</odePageId>
+      <odeBlockId>block-mvwp26sl-c3iaxwl9n</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwp24vf-8vgrkuv02</odePageId>
+          <odeBlockId>block-mvwp26sl-c3iaxwl9n</odeBlockId>
+          <odeIdeviceId>idevice-1793468872676-f2tuhv2gz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad 1 - Visita Virtual Consultorio de Oftalmología u Optometría..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793468872676-f2tuhv2gz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad 1 - Visita Virtual Consultorio de Oftalmología u Optometría..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwp24vf-8vgrkuv02</odePageId>
+      <odeBlockId>block-mvwpei4s-h7gec3x6i</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwp24vf-8vgrkuv02</odePageId>
+          <odeBlockId>block-mvwpei4s-h7gec3x6i</odeBlockId>
+          <odeIdeviceId>idevice-1793469447243-6mhptpiuv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad 2 - Visita Virtual Invernadero y Ecosistema Vegetal..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793469447243-6mhptpiuv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad 2 - Visita Virtual Invernadero y Ecosistema Vegetal..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwpnnfj-dc12883ob</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Crucigrama (Crossword)</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Crucigrama (Crossword)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwpnnfj-dc12883ob</odePageId>
+      <odeBlockId>block-mvwpnoqg-2pijf5qdm</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwpnnfj-dc12883ob</odePageId>
+          <odeBlockId>block-mvwpnoqg-2pijf5qdm</odeBlockId>
+          <odeIdeviceId>idevice-1793469875703-n7d78t2p2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad 1 - Crucigrama (Crossword)..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793469875703-n7d78t2p2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad 1 - Crucigrama (Crossword)..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwpnnfj-dc12883ob</odePageId>
+      <odeBlockId>block-mvwpo6j9-vusbvzkhb</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwpnnfj-dc12883ob</odePageId>
+          <odeBlockId>block-mvwpo6j9-vusbvzkhb</odeBlockId>
+          <odeIdeviceId>idevice-1793469898773-t4vbz8zno</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Actividad 2 - Crucigrama de Gramática y Literatura..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793469898773-t4vbz8zno","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Actividad 2 - Crucigrama de Gramática y Literatura..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwpt636-2vnxoplz0</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Ordenar los párrafos (Sort the Paragraphs)</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ordenar los párrafos (Sort the Paragraphs)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwpt636-2vnxoplz0</odePageId>
+      <odeBlockId>block-mvwpt87o-xc616n0sd</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwpt636-2vnxoplz0</odePageId>
+          <odeBlockId>block-mvwpt87o-xc616n0sd</odeBlockId>
+          <odeIdeviceId>idevice-1793470134227-gtiaycw22</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Ordenamiento del Ciclo de Vida del Software..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793470134227-gtiaycw22","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Ordenamiento del Ciclo de Vida del Software..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwpt636-2vnxoplz0</odePageId>
+      <odeBlockId>block-mvwptr6u-0g4f7u60m</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwpt636-2vnxoplz0</odePageId>
+          <odeBlockId>block-mvwptr6u-0g4f7u60m</odeBlockId>
+          <odeIdeviceId>idevice-1793470158822-8wnbo0rji</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Secuencia del Experimento Químico..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793470158822-8wnbo0rji","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Secuencia del Experimento Químico..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwqktmf-1j7531xuw</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Buscar múltiples puntos de acceso (Find Multiple Hotspots)</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Buscar múltiples puntos de acceso (Find Multiple Hotspots)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwqktmf-1j7531xuw</odePageId>
+      <odeBlockId>block-mvwqkwez-00yw3qty8</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwqktmf-1j7531xuw</odePageId>
+          <odeBlockId>block-mvwqkwez-00yw3qty8</odeBlockId>
+          <odeIdeviceId>idevice-1793471425307-b4rqhyg0g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Identificación de Componentes de la Placa Madre..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793471425307-b4rqhyg0g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Identificación de Componentes de la Placa Madre..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwqktmf-1j7531xuw</odePageId>
+      <odeBlockId>block-mvwqlia4-g2yeizzu0</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwqktmf-1j7531xuw</odePageId>
+          <odeBlockId>block-mvwqlia4-g2yeizzu0</odeBlockId>
+          <odeIdeviceId>idevice-1793471453644-r3zewdh0r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Identificación de Organelos en la Célula Eucariota..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793471453644-r3zewdh0r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Identificación de Organelos en la Célula Eucariota..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwrrsj6-o4jbs39jb</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Structure Strip</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Structure Strip</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwrrsj6-o4jbs39jb</odePageId>
+      <odeBlockId>block-mvwrrtqg-l8so3hx4r</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwrrsj6-o4jbs39jb</odePageId>
+          <odeBlockId>block-mvwrrtqg-l8so3hx4r</odeBlockId>
+          <odeIdeviceId>idevice-1793473428040-224wppwpd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Guía de Redacción Ensayo Argumentativo..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793473428040-224wppwpd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Guía de Redacción Ensayo Argumentativo..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwrrsj6-o4jbs39jb</odePageId>
+      <odeBlockId>block-mvwrsaiu-xu6f8wg8k</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwrrsj6-o4jbs39jb</odePageId>
+          <odeBlockId>block-mvwrsaiu-xu6f8wg8k</odeBlockId>
+          <odeIdeviceId>idevice-1793473449797-w7gz8oxwq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Guía de Redacción Informe de Laboratorio de Física..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793473449797-w7gz8oxwq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Guía de Redacción Informe de Laboratorio de Física..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvws4nc6-nltclmvas</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Prueba de personalidad (Personality Quiz)</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Prueba de personalidad (Personality Quiz)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvws4nc6-nltclmvas</odePageId>
+      <odeBlockId>block-mvws4w2u-p1q0r8kbw</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvws4nc6-nltclmvas</odePageId>
+          <odeBlockId>block-mvws4w2u-p1q0r8kbw</odeBlockId>
+          <odeIdeviceId>idevice-1793474037605-563a3drho</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Test Descubre tu Rol Ideal en Programación..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793474037605-563a3drho","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Test Descubre tu Rol Ideal en Programación..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvws4nc6-nltclmvas</odePageId>
+      <odeBlockId>block-mvws5a5a-wshr6nr6m</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvws4nc6-nltclmvas</odePageId>
+          <odeBlockId>block-mvws5a5a-wshr6nr6m</odeBlockId>
+          <odeIdeviceId>idevice-1793474055838-aey2ufe0n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Test Tu Rol Ecológico en el Ecosistema..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793474055838-aey2ufe0n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Test Tu Rol Ecológico en el Ecosistema..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwsntuc-igpmi96bd</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Incrustador de iframe (Iframe Embedder)</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Incrustador de iframe (Iframe Embedder)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwsntuc-igpmi96bd</odePageId>
+      <odeBlockId>block-mvwsnvs6-dfxnxhd2h</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwsntuc-igpmi96bd</odePageId>
+          <odeBlockId>block-mvwsnvs6-dfxnxhd2h</odeBlockId>
+          <odeIdeviceId>idevice-1793474923685-deqj800cz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Consulta de Clásicos de la Literatura Universal..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793474923685-deqj800cz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Consulta de Clásicos de la Literatura Universal..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwsntuc-igpmi96bd</odePageId>
+      <odeBlockId>block-mvwsofra-mw5kexsbt</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwsntuc-igpmi96bd</odePageId>
+          <odeBlockId>block-mvwsofra-mw5kexsbt</odeBlockId>
+          <odeIdeviceId>idevice-1793474949574-gbts20ucp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Resolver un problema en geogebra..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793474949574-gbts20ucp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Resolver un problema en geogebra..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwsuzts-4w589fmos</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Grabadora de audio (Audio Recorder)</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Grabadora de audio (Audio Recorder)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwsuzts-4w589fmos</odePageId>
+      <odeBlockId>block-mvwsv37i-ekfrg77yl</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwsuzts-4w589fmos</odePageId>
+          <odeBlockId>block-mvwsv37i-ekfrg77yl</odeBlockId>
+          <odeIdeviceId>idevice-1793475259901-oye8fy4bu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Speaking Task Personal Introduction and Daily Routine..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793475259901-oye8fy4bu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Speaking Task Personal Introduction and Daily Routine..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwsuzts-4w589fmos</odePageId>
+      <odeBlockId>block-mvwswcac-1a6jlqmox</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwsuzts-4w589fmos</odePageId>
+          <odeBlockId>block-mvwswcac-1a6jlqmox</odeBlockId>
+          <odeIdeviceId>idevice-1793475318323-cch5doeoa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Lectura Dramatizada de Poesía..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793475318323-cch5doeoa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Lectura Dramatizada de Poesía..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwtbkbq-by7mi9nho</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Secuenciación de imágenes (Image Sequencing)</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuenciación de imágenes (Image Sequencing)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwtbkbq-by7mi9nho</odePageId>
+      <odeBlockId>block-mvwtbmcf-jscesjm1n</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwtbkbq-by7mi9nho</odePageId>
+          <odeBlockId>block-mvwtbmcf-jscesjm1n</odeBlockId>
+          <odeIdeviceId>idevice-1793476031198-gj4de85ce</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Ordenamiento Ciclo de Vida del Software..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793476031198-gj4de85ce","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Ordenamiento Ciclo de Vida del Software..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwtbkbq-by7mi9nho</odePageId>
+      <odeBlockId>block-mvwtc6o2-7avwpo2bn</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwtbkbq-by7mi9nho</odePageId>
+          <odeBlockId>block-mvwtc6o2-7avwpo2bn</odeBlockId>
+          <odeIdeviceId>idevice-1793476057538-vf8mgluj0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Ordenamiento Fases de la Mitosis Celular..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793476057538-vf8mgluj0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Ordenamiento Fases de la Mitosis Celular..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwtlcm9-zwxi91bxe</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Control deslizante de imagen (Image Slider)</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Control deslizante de imagen (Image Slider)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwtlcm9-zwxi91bxe</odePageId>
+      <odeBlockId>block-mvwtlffx-58lhsi05s</odeBlockId>
+      <blockName>Galería: Evolución de los Medios de Almacenamiento</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwtlcm9-zwxi91bxe</odePageId>
+          <odeBlockId>block-mvwtlffx-58lhsi05s</odeBlockId>
+          <odeIdeviceId>idevice-1793476488812-t8uqoethl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Galería Evolución de los Medios de Almacenamiento..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793476488812-t8uqoethl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Galería Evolución de los Medios de Almacenamiento..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwtlcm9-zwxi91bxe</odePageId>
+      <odeBlockId>block-mvwtqi3y-jf38ocoln</odeBlockId>
+      <blockName>Galería: Anatomía y Capas del Corazón Humano</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwtlcm9-zwxi91bxe</odePageId>
+          <odeBlockId>block-mvwtqi3y-jf38ocoln</odeBlockId>
+          <odeIdeviceId>idevice-1793476725550-o1uklkusr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Galería Anatomía y Capas del Corazón Humano..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793476725550-o1uklkusr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Galería Anatomía y Capas del Corazón Humano..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwtva9w-gd5rhq0sw</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Prueba de aritmética (Arithmetic Quiz)</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Prueba de aritmética (Arithmetic Quiz)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwtva9w-gd5rhq0sw</odePageId>
+      <odeBlockId>block-mvwtvbdo-ior3qyr8k</odeBlockId>
+      <blockName>Práctica de Operaciones: Multiplicación y División</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwtva9w-gd5rhq0sw</odePageId>
+          <odeBlockId>block-mvwtvbdo-ior3qyr8k</odeBlockId>
+          <odeIdeviceId>idevice-1793476950108-2pw7d1ps9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Práctica de Operaciones Multiplicación y División..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793476950108-2pw7d1ps9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Práctica de Operaciones Multiplicación y División..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwtva9w-gd5rhq0sw</odePageId>
+      <odeBlockId>block-mvwtwuj9-yzuj3h5jb</odeBlockId>
+      <blockName>Práctica de Operaciones: ecuaciones lineales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwtva9w-gd5rhq0sw</odePageId>
+          <odeBlockId>block-mvwtwuj9-yzuj3h5jb</odeBlockId>
+          <odeIdeviceId>idevice-1793477021589-l8tj5to8x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Práctica de Operaciones ecuaciones lineales..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793477021589-l8tj5to8x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Práctica de Operaciones ecuaciones lineales..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwu7m64-edjo9g4fb</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Línea de tiempo (Timeline)</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea de tiempo (Timeline)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwu7m64-edjo9g4fb</odePageId>
+      <odeBlockId>block-mvwu7n3d-5098jphd8</odeBlockId>
+      <blockName>Historia y Evolución de los Lenguajes de Programación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwu7m64-edjo9g4fb</odePageId>
+          <odeBlockId>block-mvwu7n3d-5098jphd8</odeBlockId>
+          <odeIdeviceId>idevice-1793477525161-97nxdirko</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Historia y Evolución de los Lenguajes de Programación..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793477525161-97nxdirko","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Historia y Evolución de los Lenguajes de Programación..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwu7m64-edjo9g4fb</odePageId>
+      <odeBlockId>block-mvwubm4f-fcs8pvxac</odeBlockId>
+      <blockName>Hitos Históricos de la Física</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwu7m64-edjo9g4fb</odePageId>
+          <odeBlockId>block-mvwubm4f-fcs8pvxac</odeBlockId>
+          <odeIdeviceId>idevice-1793477710527-yt8335e4f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Hitos Históricos de la Física..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793477710527-yt8335e4f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Hitos Históricos de la Física..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwuipcr-o5pcnjzsz</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Código KewAr (KewAr Code)</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Código KewAr (KewAr Code)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwuipcr-o5pcnjzsz</odePageId>
+      <odeBlockId>block-mvwuiq8q-148s4y0z5</odeBlockId>
+      <blockName>Código QR: Documentación Oficial de Java (Oracle)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwuipcr-o5pcnjzsz</odePageId>
+          <odeBlockId>block-mvwuiq8q-148s4y0z5</odeBlockId>
+          <odeIdeviceId>idevice-1793478042457-hvqu8vm3d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Código QR Documentación Oficial de Java (Oracle)..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793478042457-hvqu8vm3d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Código QR Documentación Oficial de Java (Oracle)..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwuipcr-o5pcnjzsz</odePageId>
+      <odeBlockId>block-mvwujdyx-lepx81z4k</odeBlockId>
+      <blockName>Código QR: Mapa Mundial de Biodiversidad (GBIF)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwuipcr-o5pcnjzsz</odePageId>
+          <odeBlockId>block-mvwujdyx-lepx81z4k</odeBlockId>
+          <odeIdeviceId>idevice-1793478073208-d9ktrmfa6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Código QR Mapa Mundial de Biodiversidad (GBIF)..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793478073208-d9ktrmfa6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Código QR Mapa Mundial de Biodiversidad (GBIF)..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwuraik-pd84danz4</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Audio (Audio)</pageName>
+  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Audio (Audio)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwuraik-pd84danz4</odePageId>
+      <odeBlockId>block-mvwurbr0-kx1c3k97l</odeBlockId>
+      <blockName>Audio Educativo: Concepto de API en Desarrollo de Software</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwuraik-pd84danz4</odePageId>
+          <odeBlockId>block-mvwurbr0-kx1c3k97l</odeBlockId>
+          <odeIdeviceId>idevice-1793478443579-iegjk57fi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/Qué es una API (Explicado Fácil en menos de 3 Minutos) - Juventino Liberato.mp3"></audio></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793478443579-iegjk57fi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/Qué es una API (Explicado Fácil en menos de 3 Minutos) - Juventino Liberato.mp3\"></audio></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwuraik-pd84danz4</odePageId>
+      <odeBlockId>block-mvwusvh1-fbwcx2cle</odeBlockId>
+      <blockName>Audio Educativo: Lectura Dramatizada de Poesía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwuraik-pd84danz4</odePageId>
+          <odeBlockId>block-mvwusvh1-fbwcx2cle</odeBlockId>
+          <odeIdeviceId>idevice-1793478515797-ozdmacqrv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/(Parte II) Entre el zapoteco y el español, una mezcla poética inspiradora - UNAM Canadá.mp3"></audio></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793478515797-ozdmacqrv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/(Parte II) Entre el zapoteco y el español, una mezcla poética inspiradora - UNAM Canadá.mp3\"></audio></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwv136a-r0wqo3jt3</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Gráfico (Chart)</pageName>
+  <odeNavStructureOrder>22</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Gráfico (Chart)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwv136a-r0wqo3jt3</odePageId>
+      <odeBlockId>block-mvwv14cj-k0ox40d0g</odeBlockId>
+      <blockName>Estadística: Lenguajes de Programación más Solicitados</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwv136a-r0wqo3jt3</odePageId>
+          <odeBlockId>block-mvwv14cj-k0ox40d0g</odeBlockId>
+          <odeIdeviceId>idevice-1793478900546-u08s4j5oa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Estadística Lenguajes de Programación más Solicitados._1.html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793478900546-u08s4j5oa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Estadística Lenguajes de Programación más Solicitados._1.html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwv136a-r0wqo3jt3</odePageId>
+      <odeBlockId>block-mvwv5b9k-o45uvcn88</odeBlockId>
+      <blockName>Distribución de la Capa de Gases en la Atmósfera Terrestre</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwv136a-r0wqo3jt3</odePageId>
+          <odeBlockId>block-mvwv5b9k-o45uvcn88</odeBlockId>
+          <odeIdeviceId>idevice-1793479096136-ar7u18jwd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Distribución de la Capa de Gases en la Atmósfera Terrestre..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793479096136-ar7u18jwd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Distribución de la Capa de Gases en la Atmósfera Terrestre..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwvqm4y-35mton22j</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Dictado (Dictation)</pageName>
+  <odeNavStructureOrder>23</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Dictado (Dictation)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwvqm4y-35mton22j</odePageId>
+      <odeBlockId>block-mvwvqn3o-zsbt2kr3o</odeBlockId>
+      <blockName>Dictado Ortográfico: Reglas de Acentuación y Ortografía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwvqm4y-35mton22j</odePageId>
+          <odeBlockId>block-mvwvqn3o-zsbt2kr3o</odeBlockId>
+          <odeIdeviceId>idevice-1793480091252-4tog0hbbc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Dictado Ortográfico Reglas de Acentuación y Ortografía..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793480091252-4tog0hbbc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Dictado Ortográfico Reglas de Acentuación y Ortografía..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwvqm4y-35mton22j</odePageId>
+      <odeBlockId>block-mvwvr6u1-dngqiye3x</odeBlockId>
+      <blockName>Listening &amp; Dictation: Daily Routines</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwvqm4y-35mton22j</odePageId>
+          <odeBlockId>block-mvwvr6u1-dngqiye3x</odeBlockId>
+          <odeIdeviceId>idevice-1793480116819-6zxj6gdot</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Listening & Dictation Daily Routines..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793480116819-6zxj6gdot","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Listening & Dictation Daily Routines..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwvwkpq-uin2m0945</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Conjunto de Pronunciar las Palabras (Speak the Words Set)</pageName>
+  <odeNavStructureOrder>24</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conjunto de Pronunciar las Palabras (Speak the Words Set)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwvwkpq-uin2m0945</odePageId>
+      <odeBlockId>block-mvwvwm4o-txh58qnu9</odeBlockId>
+      <blockName>Actividad - Speaking Practice: Computer Hardware Vocabulary</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwvwkpq-uin2m0945</odePageId>
+          <odeBlockId>block-mvwvwm4o-txh58qnu9</odeBlockId>
+          <odeIdeviceId>idevice-1793480369927-ogd53xo5b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Speaking Practice Computer Hardware Vocabulary..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793480369927-ogd53xo5b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Speaking Practice Computer Hardware Vocabulary..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwvwkpq-uin2m0945</odePageId>
+      <odeBlockId>block-mvww0sws-jyg5u2iio</odeBlockId>
+      <blockName>Actividad - Evaluación Oral: Pronunciación y Dicción en Español</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwvwkpq-uin2m0945</odePageId>
+          <odeBlockId>block-mvww0sws-jyg5u2iio</odeBlockId>
+          <odeIdeviceId>idevice-1793480565340-as2229anh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Evaluación Oral Pronunciación y Dicción en Español..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793480565340-as2229anh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Evaluación Oral Pronunciación y Dicción en Español..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwwmwzl-r73fv5laj</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Cuestionario (Questionnaire)</pageName>
+  <odeNavStructureOrder>25</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cuestionario (Questionnaire)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwwmwzl-r73fv5laj</odePageId>
+      <odeBlockId>block-mvwwmz9s-gc3n8pw0a</odeBlockId>
+      <blockName>Cuestionario de Reflexión: Proyecto de Software</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwwmwzl-r73fv5laj</odePageId>
+          <odeBlockId>block-mvwwmz9s-gc3n8pw0a</odeBlockId>
+          <odeIdeviceId>idevice-1793481600016-6gdt8zu5m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Cuestionario de Reflexión Proyecto de Software..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793481600016-6gdt8zu5m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Cuestionario de Reflexión Proyecto de Software..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwwmwzl-r73fv5laj</odePageId>
+      <odeBlockId>block-mvwwnsfs-zs8omoxdn</odeBlockId>
+      <blockName>Cuestionario de Biología: Nutrición Celular y Fotosíntesis</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwwmwzl-r73fv5laj</odePageId>
+          <odeBlockId>block-mvwwnsfs-zs8omoxdn</odeBlockId>
+          <odeIdeviceId>idevice-1793481637816-iib7nkesk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Cuestionario de Biología Nutrición Celular y Fotosíntesis..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793481637816-iib7nkesk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Cuestionario de Biología Nutrición Celular y Fotosíntesis..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwwwcih-qf5j3mc49</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Juego de memoria (Memory Game)</pageName>
+  <odeNavStructureOrder>26</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Juego de memoria (Memory Game)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwwwcih-qf5j3mc49</odePageId>
+      <odeBlockId>block-mvwwwdh2-ysfpc4e6k</odeBlockId>
+      <blockName>Juego de Memoria: Lenguajes de Programación y Entornos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwwwcih-qf5j3mc49</odePageId>
+          <odeBlockId>block-mvwwwdh2-ysfpc4e6k</odeBlockId>
+          <odeIdeviceId>idevice-1793482038307-7i3fzae1c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Juego de Memoria Lenguajes de Programación y Entornos..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793482038307-7i3fzae1c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Juego de Memoria Lenguajes de Programación y Entornos..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwwwcih-qf5j3mc49</odePageId>
+      <odeBlockId>block-mvwx437q-rsl2zyguw</odeBlockId>
+      <blockName>Juego de Memoria: Figuras Literarias y Ejemplos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwwwcih-qf5j3mc49</odePageId>
+          <odeBlockId>block-mvwx437q-rsl2zyguw</odeBlockId>
+          <odeIdeviceId>idevice-1793482398278-abrzcbr16</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Juego de Memoria Figuras Literarias y Ejemplos..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793482398278-abrzcbr16","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Juego de Memoria Figuras Literarias y Ejemplos..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwxb567-8p4ayej7a</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Emparejamiento de imágenes (Image Pairing)</pageName>
+  <odeNavStructureOrder>27</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Emparejamiento de imágenes (Image Pairing)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwxb567-8p4ayej7a</odePageId>
+      <odeBlockId>block-mvwxb6ie-fsv6lgh88</odeBlockId>
+      <blockName>Emparejamiento de Imágenes: Iconos y Herramientas de Desarrollo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwxb567-8p4ayej7a</odePageId>
+          <odeBlockId>block-mvwxb6ie-fsv6lgh88</odeBlockId>
+          <odeIdeviceId>idevice-1793482729141-x9i3p6gl6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Emparejamiento de Imágenes Iconos y Herramientas de Desarrollo..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793482729141-x9i3p6gl6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Emparejamiento de Imágenes Iconos y Herramientas de Desarrollo..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwxb567-8p4ayej7a</odePageId>
+      <odeBlockId>block-mvwxgxw1-gp6auf7fc</odeBlockId>
+      <blockName>Emparejamiento de Imágenes: Magnitudes Físicas e Instrumentos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwxb567-8p4ayej7a</odePageId>
+          <odeBlockId>block-mvwxgxw1-gp6auf7fc</odeBlockId>
+          <odeIdeviceId>idevice-1793482997904-ovt22b0l0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Emparejamiento de Imágenes Magnitudes Físicas e Instrumentos..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793482997904-ovt22b0l0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Emparejamiento de Imágenes Magnitudes Físicas e Instrumentos..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwxucxa-ltonnfs9c</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Pregunta de verdadero  falso (TrueFalse Question)</pageName>
+  <odeNavStructureOrder>28</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pregunta de verdadero  falso (TrueFalse Question)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwxucxa-ltonnfs9c</odePageId>
+      <odeBlockId>block-mvwxudxo-uol9u0qbu</odeBlockId>
+      <blockName>V/F: Declaración de Variables en JavaScript</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwxucxa-ltonnfs9c</odePageId>
+          <odeBlockId>block-mvwxudxo-uol9u0qbu</odeBlockId>
+          <odeIdeviceId>idevice-1793483625227-21pxe962a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/VF Declaración de Variables en JavaScript..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793483625227-21pxe962a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/VF Declaración de Variables en JavaScript..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwxucxa-ltonnfs9c</odePageId>
+      <odeBlockId>block-mvwxv14r-d7ofbj0o4</odeBlockId>
+      <blockName>V/F: La Revolución de la Imprenta en Europa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwxucxa-ltonnfs9c</odePageId>
+          <odeBlockId>block-mvwxv14r-d7ofbj0o4</odeBlockId>
+          <odeIdeviceId>idevice-1793483655291-gbiblwat0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/VF La Revolución de la Imprenta en Europa.html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793483655291-gbiblwat0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/VF La Revolución de la Imprenta en Europa.html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwy2hhj-bgsti77d4</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Adivina la respuesta (Guess the Answer)</pageName>
+  <odeNavStructureOrder>29</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Adivina la respuesta (Guess the Answer)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwy2hhj-bgsti77d4</odePageId>
+      <odeBlockId>block-mvwy2jz6-atuhs9pw6</odeBlockId>
+      <blockName>Adivina el Teorema: Relaciones en Triángulos Rectángulos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwy2hhj-bgsti77d4</odePageId>
+          <odeBlockId>block-mvwy2jz6-atuhs9pw6</odeBlockId>
+          <odeIdeviceId>idevice-1793484006273-lhoehibpn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Adivina el Teorema Relaciones en Triángulos Rectángulos..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793484006273-lhoehibpn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Adivina el Teorema Relaciones en Triángulos Rectángulos..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwy2hhj-bgsti77d4</odePageId>
+      <odeBlockId>block-mvwy35hl-17epih9o8</odeBlockId>
+      <blockName>Adivina el Modelo Atómico</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwy2hhj-bgsti77d4</odePageId>
+          <odeBlockId>block-mvwy35hl-17epih9o8</odeBlockId>
+          <odeIdeviceId>idevice-1793484034184-xvo7oac3d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Adivina el Modelo Atómico..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793484034184-xvo7oac3d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Adivina el Modelo Atómico..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvwycqwa-5f0gebo04</odePageId>
+  <odeParentPageId>b96fb9c2-7291-4c56-af17-cc9e1b315c36</odeParentPageId>
+  <pageName>Tarjetas didácticas (Flashcards)</pageName>
+  <odeNavStructureOrder>30</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarjetas didácticas (Flashcards)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvwycqwa-5f0gebo04</odePageId>
+      <odeBlockId>block-mvwycs2t-rsvoaaxpm</odeBlockId>
+      <blockName>Tarjetas didácticas: Hardware y redes informáticas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwycqwa-5f0gebo04</odePageId>
+          <odeBlockId>block-mvwycs2t-rsvoaaxpm</odeBlockId>
+          <odeIdeviceId>idevice-1793484483365-cydufpp7r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Flashcards Computer Hardware & Networking..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793484483365-cydufpp7r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Flashcards Computer Hardware & Networking..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvwycqwa-5f0gebo04</odePageId>
+      <odeBlockId>block-mvwyjcpw-nlpuwmmxc</odeBlockId>
+      <blockName>Flashcards: Geografía y Formas del Relieve</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvwycqwa-5f0gebo04</odePageId>
+          <odeBlockId>block-mvwyjcpw-nlpuwmmxc</odeBlockId>
+          <odeIdeviceId>idevice-1793484790051-oj43ua5no</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Flashcards Geografía y Formas del Relieve..html" data-mce-html="true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793484790051-oj43ua5no","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/Flashcards Geografía y Formas del Relieve..html\" data-mce-html=\"true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
